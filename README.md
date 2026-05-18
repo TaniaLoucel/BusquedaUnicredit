@@ -1,2 +1,2 @@
-# Merchant-portal-responsive
-Vistas responsive para merchant portal
+# Nueva-Busqueda-UC
+Comportamiento de la nueva busqueda en UC
